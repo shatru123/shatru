@@ -1,5 +1,5 @@
 import java.io.*;
-class ReverseNo
+class ReverseString
  { 
     public static void main(String args[]) throws IOException 
 	{ 
